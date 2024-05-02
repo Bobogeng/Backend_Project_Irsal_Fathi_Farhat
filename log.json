@@ -1,10 +1,5 @@
 [
   {
-    "timestamp": "2024-05-02T06:46:17.484Z",
-    "method": "POST",
-    "url": "/auth/register"
-  },
-  {
     "timestamp": "2024-05-02T06:46:24.196Z",
     "method": "POST",
     "url": "/auth/login"
@@ -496,6 +491,11 @@
   },
   {
     "timestamp": "2024-05-02T14:01:10.323Z",
+    "method": "GET",
+    "url": "/"
+  },
+  {
+    "timestamp": "2024-05-02T14:11:36.128Z",
     "method": "GET",
     "url": "/"
   }
