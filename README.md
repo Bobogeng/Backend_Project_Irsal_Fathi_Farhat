@@ -13,7 +13,7 @@ I've utilized the powerful combination of Google Cloud Platform (GCP) for hostin
 
 [https://quiz-app-sand-tau.vercel.app](https://quiz-app-sand-tau.vercel.app)
 
-## Home Routes
+### Home Routes
 
 #### Description:
 
