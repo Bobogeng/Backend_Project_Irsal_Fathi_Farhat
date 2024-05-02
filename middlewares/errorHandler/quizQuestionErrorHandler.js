@@ -32,6 +32,18 @@ const errors = {
         message: "Some error occured, failed to get quiz question.",
         statusCode: 500,
     },
+    missingToken: {
+        message: "Missing access token.",
+        statusCode: 401,
+    },
+    invalidToken: {
+        message: "Invalid token.",
+        statusCode: 500,
+    },
+    unauthorizedAccess: {
+        message: "Unauthorized access.",
+        statusCode: 403,
+    },
     default: {
         message: "Internal Server Error",
         statusCode: 500,

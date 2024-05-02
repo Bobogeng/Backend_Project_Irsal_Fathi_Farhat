@@ -17,7 +17,7 @@ const authenticateToken = (req, res, next) => {
         req.userRole = decoded.role;
         const route = req.baseUrl;
         const method = req.method;
-        if (!roleAccess(req.userRole, route, method)) {
+        if (!roleAccess(req.userId, req.userRole, route, method)) {
             return next({ type: "unauthorizedAccess" });
         }
         next();

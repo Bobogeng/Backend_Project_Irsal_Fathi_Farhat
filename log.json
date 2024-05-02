@@ -1,240 +1,5 @@
 [
   {
-    "timestamp": "2024-05-02T06:46:24.196Z",
-    "method": "POST",
-    "url": "/auth/login"
-  },
-  {
-    "timestamp": "2024-05-02T06:46:36.257Z",
-    "method": "POST",
-    "url": "/auth/login"
-  },
-  {
-    "timestamp": "2024-05-02T06:46:43.124Z",
-    "method": "GET",
-    "url": "/user/"
-  },
-  {
-    "timestamp": "2024-05-02T06:46:49.391Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:47:01.126Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:47:21.033Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:47:25.186Z",
-    "method": "POST",
-    "url": "/auth/login"
-  },
-  {
-    "timestamp": "2024-05-02T06:47:34.373Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:47:53.163Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:48:12.953Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:48:51.909Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:48:55.326Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:49:01.103Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:49:03.373Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:49:06.880Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:49:13.689Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:09:29.725Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:09:35.296Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:09:37.646Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:09:40.411Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:09:53.913Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:09:55.907Z",
-    "method": "GET",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:00.880Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:13.667Z",
-    "method": "POST",
-    "url": "/user-answer"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:17.787Z",
-    "method": "POST",
-    "url": "/user-answer"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:24.247Z",
-    "method": "DELETE",
-    "url": "/user-answer/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:26.386Z",
-    "method": "DELETE",
-    "url": "/user-answer/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:27.539Z",
-    "method": "DELETE",
-    "url": "/user-answer/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:28.757Z",
-    "method": "DELETE",
-    "url": "/user-answer/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:35.477Z",
-    "method": "PUT",
-    "url": "/user-answer/5"
-  },
-  {
-    "timestamp": "2024-05-02T07:10:40.983Z",
-    "method": "PUT",
-    "url": "/user-answer/5"
-  },
-  {
-    "timestamp": "2024-05-02T07:11:18.280Z",
-    "method": "PUT",
-    "url": "/user/4"
-  },
-  {
-    "timestamp": "2024-05-02T07:11:22.558Z",
-    "method": "PUT",
-    "url": "/user/4"
-  },
-  {
-    "timestamp": "2024-05-02T07:11:23.942Z",
-    "method": "PUT",
-    "url": "/user/4"
-  },
-  {
-    "timestamp": "2024-05-02T07:11:25.404Z",
-    "method": "PUT",
-    "url": "/user/4"
-  },
-  {
-    "timestamp": "2024-05-02T07:11:32.085Z",
-    "method": "PUT",
-    "url": "/user/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:12:46.426Z",
-    "method": "PUT",
-    "url": "/user/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:12:58.953Z",
-    "method": "PUT",
-    "url": "/user/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:13:05.056Z",
-    "method": "PUT",
-    "url": "/user/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:13:23.693Z",
-    "method": "PUT",
-    "url": "/user/1"
-  },
-  {
-    "timestamp": "2024-05-02T07:13:44.402Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:13:51.875Z",
-    "method": "PUT",
-    "url": "/quiz/3"
-  },
-  {
-    "timestamp": "2024-05-02T07:14:10.992Z",
-    "method": "PUT",
-    "url": "/quiz/3"
-  },
-  {
-    "timestamp": "2024-05-02T07:14:13.810Z",
-    "method": "PUT",
-    "url": "/quiz/3"
-  },
-  {
-    "timestamp": "2024-05-02T07:14:51.983Z",
-    "method": "PUT",
-    "url": "/quiz/3"
-  },
-  {
-    "timestamp": "2024-05-02T07:14:55.991Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T07:14:57.527Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
     "timestamp": "2024-05-02T07:14:59.038Z",
     "method": "POST",
     "url": "/quiz"
@@ -498,5 +263,240 @@
     "timestamp": "2024-05-02T14:11:36.128Z",
     "method": "GET",
     "url": "/"
+  },
+  {
+    "timestamp": "2024-05-02T15:23:30.217Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:23:42.052Z",
+    "method": "GET",
+    "url": "/user/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:24:00.575Z",
+    "method": "GET",
+    "url": "/user/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:24:03.258Z",
+    "method": "GET",
+    "url": "/user/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:24:14.191Z",
+    "method": "POST",
+    "url": "/auth/login"
+  },
+  {
+    "timestamp": "2024-05-02T15:24:25.867Z",
+    "method": "POST",
+    "url": "/auth/register"
+  },
+  {
+    "timestamp": "2024-05-02T15:24:36.650Z",
+    "method": "GET",
+    "url": "/quiz"
+  },
+  {
+    "timestamp": "2024-05-02T15:25:35.754Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:25:44.960Z",
+    "method": "POST",
+    "url": "/auth/login"
+  },
+  {
+    "timestamp": "2024-05-02T15:25:50.410Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:00.929Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:12.630Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:16.227Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:20.271Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:27.423Z",
+    "method": "POST",
+    "url": "/auth/login"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:29.386Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:43.745Z",
+    "method": "POST",
+    "url": "/auth/login"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:50.482Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:56.662Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:26:59.997Z",
+    "method": "POST",
+    "url": "/auth/login"
+  },
+  {
+    "timestamp": "2024-05-02T15:27:02.553Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:27:24.965Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:27:31.698Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:27:34.809Z",
+    "method": "GET",
+    "url": "/user/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:27:38.049Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:27:57.418Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T15:36:49.116Z",
+    "method": "PUT",
+    "url": "/user/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:39:31.265Z",
+    "method": "POST",
+    "url": "/quiz"
+  },
+  {
+    "timestamp": "2024-05-02T15:39:35.821Z",
+    "method": "GET",
+    "url": "/quiz"
+  },
+  {
+    "timestamp": "2024-05-02T15:39:39.550Z",
+    "method": "GET",
+    "url": "/quiz/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:39:47.831Z",
+    "method": "PUT",
+    "url": "/quiz/3"
+  },
+  {
+    "timestamp": "2024-05-02T15:39:55.549Z",
+    "method": "PUT",
+    "url": "/quiz/3"
+  },
+  {
+    "timestamp": "2024-05-02T15:41:45.156Z",
+    "method": "POST",
+    "url": "/quiz-category"
+  },
+  {
+    "timestamp": "2024-05-02T15:41:48.226Z",
+    "method": "GET",
+    "url": "/quiz-category/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:41:53.679Z",
+    "method": "GET",
+    "url": "/quiz-category"
+  },
+  {
+    "timestamp": "2024-05-02T15:42:14.828Z",
+    "method": "PUT",
+    "url": "/quiz-category/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:42:20.649Z",
+    "method": "DELETE",
+    "url": "/quiz-category/4"
+  },
+  {
+    "timestamp": "2024-05-02T15:42:37.607Z",
+    "method": "DELETE",
+    "url": "/quiz-category/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:53:27.089Z",
+    "method": "GET",
+    "url": "/user/1"
+  },
+  {
+    "timestamp": "2024-05-02T15:53:56.318Z",
+    "method": "GET",
+    "url": "/quiz/"
+  },
+  {
+    "timestamp": "2024-05-02T15:54:00.523Z",
+    "method": "GET",
+    "url": "/quiz"
+  },
+  {
+    "timestamp": "2024-05-02T15:54:37.393Z",
+    "method": "GET",
+    "url": "/quiz/"
+  },
+  {
+    "timestamp": "2024-05-02T15:54:58.004Z",
+    "method": "GET",
+    "url": "/quiz/"
+  },
+  {
+    "timestamp": "2024-05-02T16:17:26.564Z",
+    "method": "GET",
+    "url": "/quiz/"
+  },
+  {
+    "timestamp": "2024-05-02T16:17:31.764Z",
+    "method": "POST",
+    "url": "/user-answer"
+  },
+  {
+    "timestamp": "2024-05-02T16:17:46.037Z",
+    "method": "POST",
+    "url": "/user-attempt"
+  },
+  {
+    "timestamp": "2024-05-02T16:18:10.719Z",
+    "method": "POST",
+    "url": "/user-attempt"
   }
 ]
