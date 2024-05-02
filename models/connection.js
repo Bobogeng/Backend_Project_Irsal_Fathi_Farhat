@@ -6,6 +6,7 @@ const connection = mysql.createPool({
     user: dbConfig.DB_USER,
     password: dbConfig.DB_PASSWORD,
     database: dbConfig.DB_DATABASE,
+    port: dbConfig.DB_PORT,
 });
 
 export default connection;
