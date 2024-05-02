@@ -19,10 +19,10 @@
     "homepage": "",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Fullstack-Javascript-Sanber-Foundation/Backend_Project_Irsal_Fathi_Farhat.git"
+        "url": "git+https://github.com/Bobogeng/QuizApp"
     },
     "bugs": {
-        "url": "https://github.com/Fullstack-Javascript-Sanber-Foundation/Backend_Project_Irsal_Fathi_Farhat/issues"
+        "url": "https://github.com/Bobogeng/QuizApp/issues"
     },
     "type": "module",
     "devDependencies": {

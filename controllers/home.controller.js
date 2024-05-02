@@ -8,7 +8,7 @@ HomeController.getWelcome = (req, res) => {
             author: "Irsal Fathi Farhat",
             author_website: "https://bobogeng.com",
             version: 1.0,
-            repo: "https://github.com/Fullstack-Javascript-Sanber-Foundation/Backend_Project_Irsal_Fathi_Farhat",
+            repo: "https://github.com/Bobogeng/QuizApp",
         });
     } catch (error) {
         console.log(error);
