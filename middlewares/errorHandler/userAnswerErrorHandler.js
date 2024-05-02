@@ -20,15 +20,15 @@ const errors = {
     },
     userAttemptIdEmptyError: {
         message: "Foreign key user_attempts_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizAnswerIdEmptyError: {
         message: "Foreign key quiz_answers_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizQuestionIdEmptyError: {
         message: "Foreign key quiz_questions_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     userAnswerCreateFailed: {
         message: "Some error occured, failed to create user answer.",

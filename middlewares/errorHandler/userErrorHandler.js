@@ -5,11 +5,11 @@ const errors = {
     },
     usernameEmptyError: {
         message: "Username can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     passwordEmptyError: {
         message: "Password can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     userCreateFailed: {
         message: "Some error occured, failed to create user.",

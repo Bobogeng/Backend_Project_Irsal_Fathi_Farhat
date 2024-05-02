@@ -14,15 +14,15 @@ const errors = {
     },
     titleEmptyError: {
         message: "Title can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     userIdEmptyError: {
         message: "Foreign key users_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizCategoryIdEmptyError: {
         message: "Foreign key quiz_categories_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizCreateFailed: {
         message: "Some error occured, failed to create quiz.",

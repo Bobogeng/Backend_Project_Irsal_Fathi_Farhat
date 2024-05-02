@@ -5,7 +5,7 @@ const errors = {
     },
     nameEmptyError: {
         message: "Name can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizCategoryCreateFailed: {
         message: "Some error occured, failed to create quiz category.",

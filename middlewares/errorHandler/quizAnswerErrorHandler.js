@@ -15,11 +15,11 @@ const errors = {
     },
     quizIdEmptyError: {
         message: "Foreign key quizzes_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizQuestionIdEmptyError: {
         message: "Foreign key quiz_questions_id can not be empty!",
-        statusCode: 422,
+        statusCode: 400,
     },
     quizAnswerCreateFailed: {
         message: "Some error occured, failed to create quiz answer.",
