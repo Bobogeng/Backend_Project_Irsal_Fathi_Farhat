@@ -1,0 +1,36 @@
+{
+    "name": "quiz-app",
+    "version": "1.0.0",
+    "description": "This QuizApp project is designed to create, manage, and take quizzes. The stack used in this project is Node.js, Express, and MySQL.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "dev": "nodemon server"
+    },
+    "start": "node server",
+    "author": "Irsal Fathi Farhat",
+    "license": "ISC",
+    "keywords": [
+        "quiz-app"
+    ],
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Fullstack-Javascript-Sanber-Foundation/Backend_Project_Irsal_Fathi_Farhat.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Fullstack-Javascript-Sanber-Foundation/Backend_Project_Irsal_Fathi_Farhat/issues"
+    },
+    "type": "module",
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "express-async-errors": "^3.1.1",
+        "jsonwebtoken": "^9.0.2",
+        "mysql": "^2.18.1"
+    }
+}
