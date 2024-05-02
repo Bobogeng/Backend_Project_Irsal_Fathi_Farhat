@@ -1,15 +1,5 @@
 [
   {
-    "timestamp": "2024-05-02T06:42:47.443Z",
-    "method": "POST",
-    "url": "/quiz"
-  },
-  {
-    "timestamp": "2024-05-02T06:43:01.429Z",
-    "method": "GET",
-    "url": "/user/"
-  },
-  {
     "timestamp": "2024-05-02T06:46:17.484Z",
     "method": "POST",
     "url": "/auth/register"
@@ -498,5 +488,15 @@
     "timestamp": "2024-05-02T11:19:28.590Z",
     "method": "GET",
     "url": "/user-answer/1"
+  },
+  {
+    "timestamp": "2024-05-02T14:00:53.055Z",
+    "method": "GET",
+    "url": "/user"
+  },
+  {
+    "timestamp": "2024-05-02T14:01:10.323Z",
+    "method": "GET",
+    "url": "/"
   }
 ]
